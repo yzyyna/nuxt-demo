@@ -1,0 +1,1 @@
+export { default } from "file:///Users/fortrust/Documents/project/gitee/nuxt-demo/node_modules/.pnpm/@nuxt+vite-builder@3.15.1_@types+node@22.10.5_magicast@0.3.5_rollup@4.30.1_terser@5.37.0_type_nqd3rmhfg7crefqtlaauptmgda/node_modules/@nuxt/vite-builder/dist/runtime/vite-node.mjs"
